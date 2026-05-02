@@ -17,11 +17,11 @@ Follow these steps to install and run the project:
 
 1. Clone the repository:
    ```bash
-      git clone https://github.com/bhaveshAswani112/PRML_Project.git
+      git clone https://github.com/sandeep33999/Sentiment-analysis
    ```
 2. Change the directory
    ```bash
-      cd PRML_POJECT
+      cd ML_POJECT
    ```
 3. Install required Python packages:
    ```bash
